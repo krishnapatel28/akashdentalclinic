@@ -1,2 +1,2 @@
 # akashdentalclinic
-Website Of Dental Clinic.
+Website Of Akash Dental Clinic.
